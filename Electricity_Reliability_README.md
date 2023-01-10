@@ -9,3 +9,5 @@ Electricity_Reliability_CLEANED.pdf is the data processing and cleaning.
 Electricity_Reliability_MODELS.pdf is the models and visualizations created for the final project.
 
 DS_143_Project is the draft of the final paper.
+
+Final_DS143_ppt.pdf the powerpoint used in the final presentation. 
